@@ -7,3 +7,5 @@ O objetivo é desenvolver um **MVP (Produto Mínimo Viável)** utilizando ferram
 Esse processo promove a integração entre teoria e prática, estimula a colaboração em equipe e fortalece competências como análise crítica, inovação tecnológica e responsabilidade social.  
 
 No final do semestre, cada equipe apresenta sua solução digital acompanhada da documentação completa, evidenciando a evolução do projeto e a aplicação dos conceitos aprendidos.
+
+Professora Kadidja Valéria
