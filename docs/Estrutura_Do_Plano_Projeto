@@ -1,0 +1,31 @@
+ProjetoIntegradorI/
+│
+├── docs/                  # Documentação do projeto
+│   ├── glossario.md
+│   ├── descricao_projeto.md
+│   ├── escopo_eap.md
+│   ├── problema_oportunidade.md
+│   ├── modelo_negocio_canvas.md
+│   ├── cenarios_negocio.md
+│   ├── beneficios.md
+│   ├── publico_alvo.md
+│   ├── cronograma_marcos.md
+│   ├── requisitos_funcionais.md
+│   ├── requisitos_nao_funcionais.md
+│   ├── prototipo_visual.md
+│   ├── bibliografia.md
+│   └── tecnologias_utilizadas.md
+│
+├── src/                   # Código-fonte da solução
+│   ├── backend/
+│   ├── frontend/
+│   └── scripts/
+│
+├── tests/                 # Testes automatizados ou manuais
+│
+├── assets/                # Imagens, wireframes, protótipos
+│   ├── prototipos/
+│   ├── diagramas/
+│   └── dashboards/
+│
+└── README.md              # Apresentação geral do projeto
