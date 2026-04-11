@@ -1,10 +1,34 @@
-📌 Orientações
-docs/: cada seção do template de documentação deve ser criada como um arquivo separado, atualizado conforme as aulas avançam.
+# Estrutura de Pastas do Projeto Integrador I
 
-src/: guarda o código da aplicação (se houver).
-
-tests/: concentra scripts de teste e validação.
-
-assets/: armazena protótipos visuais, diagramas e dashboards criados nas ferramentas (Figma, Lucidchart, etc.).
-
-README.md: resumo inicial do projeto, com instruções de uso e links para a documentação.
+ProjetoIntegradorI/
+│
+├── docs/                  # Documentação
+│   ├── prototipos/        # Subpasta para wireframes
+│   │   └── tela_login.md
+│   ├── diagramas/         # Subpasta para EAP, Canvas
+│   │   └── eap.png
+│   ├── requisitos/        # Subpasta para requisitos
+│   │   ├── funcionais.md
+│   │   └── nao_funcionais.md
+│   └── bibliografia.md
+│
+├── src/                   # Código-fonte
+│   ├── backend/           # Subpasta para servidor
+│   │   └── api.py
+│   ├── frontend/          # Subpasta para interface
+│   │   └── index.html
+│   └── scripts/           # Subpasta para utilitários
+│       └── etl.py
+│
+├── tests/                 # Testes
+│   └── test_login.py
+│
+├── assets/                # Recursos visuais
+│   ├── imagens/
+│   │   └── logo.png
+│   ├── dashboards/
+│   │   └── dashboard_v1.png
+│   └── diagramas/
+│       └── modelo_dados.png
+│
+└── README.md              # Apresentação geral
