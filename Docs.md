@@ -1,5 +1,3 @@
-# Estrutura de Pastas do Projeto Integrador I
-
 ProjetoIntegradorI/
 │
 ├── docs/                  # Documentação
