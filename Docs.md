@@ -3,21 +3,21 @@
 ProjetoIntegradorI/
 │
 ├── docs/                  # Documentação
-│   ├── prototipos/        # Subpasta para wireframes
+│   ├── prototipos/        # Wireframes
 │   │   └── tela_login.md
-│   ├── diagramas/         # Subpasta para EAP, Canvas
+│   ├── diagramas/         # EAP, Canvas
 │   │   └── eap.png
-│   ├── requisitos/        # Subpasta para requisitos
+│   ├── requisitos/        # Requisitos
 │   │   ├── funcionais.md
 │   │   └── nao_funcionais.md
 │   └── bibliografia.md
 │
 ├── src/                   # Código-fonte
-│   ├── backend/           # Subpasta para servidor
+│   ├── backend/           # Servidor
 │   │   └── api.py
-│   ├── frontend/          # Subpasta para interface
+│   ├── frontend/          # Interface
 │   │   └── index.html
-│   └── scripts/           # Subpasta para utilitários
+│   └── scripts/           # Utilitários
 │       └── etl.py
 │
 ├── tests/                 # Testes
@@ -32,4 +32,3 @@ ProjetoIntegradorI/
 │       └── modelo_dados.png
 │
 └── README.md              # Apresentação geral
-
