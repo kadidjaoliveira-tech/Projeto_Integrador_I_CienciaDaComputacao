@@ -8,7 +8,7 @@ Esse processo promove a integração entre teoria e prática, estimula a colabor
 
 No final do semestre, cada equipe apresenta sua solução digital acompanhada da documentação completa, evidenciando a evolução do projeto e a aplicação dos conceitos aprendidos.  
 
-![Metodologia e módulos da disciplina](https://kadidjaoliveira-tech.github.io/Projeto_Integrador_I_CienciaDaComputacao/)
+[Metodologia e módulos da disciplina](https://kadidjaoliveira-tech.github.io/Projeto_Integrador_I_CienciaDaComputacao/)
 ---
 
 **Professora:** Kadidja Valéria Reginaldo de Oliveira
