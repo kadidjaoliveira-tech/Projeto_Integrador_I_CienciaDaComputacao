@@ -10,9 +10,9 @@ ProjetoIntegradorI/
 │   ├── requisitos/        # Requisitos
 │   │   ├── funcionais.md
 │   │   └── nao_funcionais.md
-│   └── bibliografia.md
+│   └── bibliografia.md (PI_I)
 │
-├── src/                   # Código-fonte
+├── src/                   # Código-fonte PI_II
 │   ├── backend/           # Servidor
 │   │   └── api.py
 │   ├── frontend/          # Interface
@@ -20,7 +20,7 @@ ProjetoIntegradorI/
 │   └── scripts/           # Utilitários
 │       └── etl.py
 │
-├── tests/                 # Testes
+├── tests/                 # Testes 
 │   └── test_login.py
 │
 ├── assets/                # Recursos visuais
