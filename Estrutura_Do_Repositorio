@@ -12,7 +12,7 @@ ProjetoIntegradorI/
 │   │   └── nao_funcionais.md
 │   └── bibliografia.md (PI_I)
 │
-├── src/                   # Código-fonte PI_II
+├── src/                   # Código-fonte 
 │   ├── backend/           # Servidor
 │   │   └── api.py
 │   ├── frontend/          # Interface
